@@ -6,15 +6,15 @@
 
 ### My funny daily routine : 
 ```mermaid
-graph TD;
-    A[💤 Réveil] -->|Se connecter| B[🔒 Check sécurité];
-    B --> C[📰 Lire des infos sur les hacks];
-    C -->|Trouver une faille?| D[😎 Patch & Café];
-    D --> E[🤔 Réflexion stratégique];
-    E -->|Hackathon| F[🏆];
-    E -->|Routine| G[🔍 Analyse de logs];
-    F --> H[🍻 Célébration];
-    G --> H;
+graph LR;
+    A[🛌 Rêve de codes] -->|Alarme| B[🔐 Crypte sa cafetière];
+    B --> C[🕵️‍♂️ Traque les bugs en pyjama];
+    C --> D[💻 Stand-up meeting: "Tout est sous contrôle"];
+    D --> E[🎮 Pause gaming];
+    E --> F[🔔 Notification: Incident de sécurité];
+    F --> G[🦸‍♂️ Mode super-héros];
+    G --> H[🍕 Commande une pizza];
+    H --> I[🛌 Recharge: pour recommencer demain];
 ```
 
 
