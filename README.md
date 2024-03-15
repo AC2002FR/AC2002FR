@@ -5,7 +5,7 @@
 -->
 
 ### My funny daily routine : 
-
+'''mermaid
 graph TD;
     A[Début de la journée: Café nécessaire] --> B{Vérifier les nouvelles vulnérabilités};
     B --> C[Tester un nouveau outil de hacking éthique];
@@ -20,7 +20,7 @@ graph TD;
     J -->|Une dernière vérification des e-mails| K[Planifier les tâches de demain];
     J -->|Déconnecter| L[Fin: Temps de jouer à un CTF ou regarder une série];
     K --> L;
-
+'''
 
 
 ### Connect with me : 
