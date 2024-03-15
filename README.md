@@ -21,5 +21,5 @@ graph TD;
 
 
 ### Connect with me : 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andre%20Chapoton-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/andrechapoton/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-André%20CHAPOTON-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/andrechapoton/)
 
