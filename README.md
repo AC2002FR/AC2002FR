@@ -7,7 +7,6 @@
 ### My funny daily routine : 
 ```mermaid
 graph TD;
-graph TD;
     A[Commencer avec du café] --> B{Nouvelle faille de sécurité ?};
     B -->|Oui| C[Télécharger le patch en buvant un deuxième café];
     B -->|Non| D[Chercher activement des failles];
