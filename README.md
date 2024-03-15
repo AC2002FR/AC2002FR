@@ -23,3 +23,6 @@ graph TD;
 ### Connect with me : 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-André%20CHAPOTON-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/andrechapoton/)
 
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/andrechapoton/)
