@@ -7,14 +7,14 @@
 ### My funny daily routine : 
 ```mermaid
 graph TD;
-    A[🛌 Rêve de codes] -->|Alarme| B[🔐 Crypte sa cafetière];
-    B --> C[🕵️‍♂️ Traque les bugs en pyjama];
-    C --> D[💻 Stand-up meeting : 'Tout est sous contrôle'];
-    D --> E[🎮 Pause gaming];
-    E --> F[🔔 Notification: Incident de sécurité];
-    F --> G[🦸‍♂️ Mode super-héros];
-    G --> H[🍕 Commande une pizza];
-    H --> I[🛌 Recharge: pour recommencer demain];
+    A[🛌 Dreaming of Bitcoin] -->|Alarm| B[🔐 Encrypts Coffee Maker];
+    B --> C[🕵️‍♂️ Bug Hunting in Pajamas];
+    C --> D[💻 Stand-up Meeting : 'Everything is Under Control'];
+    D --> E[🎮 Gaming Break];
+    E --> F[🔔 Notification : Security Incident];
+    F --> G[🦸‍♂️ Superhero Mode];
+    G --> H[🍕 Orders Pizza];
+    H --> I[🛌 Recharging : Ready for Tomorrow];
     I --> A;
 ```
 
