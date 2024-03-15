@@ -15,6 +15,7 @@ graph TD;
     F --> G[🦸‍♂️ Mode super-héros];
     G --> H[🍕 Commande une pizza];
     H --> I[🛌 Recharge: pour recommencer demain];
+    I --> A;
 ```
 
 
