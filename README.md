@@ -12,7 +12,7 @@ Explanation of AC2002FR :
   - FR : Indicates that I am French 🇫🇷 (Yes, the land of baguettes)
 
 
-
+## 💼 Technical skills
 
 <table>
   <tr>
@@ -44,24 +44,6 @@ Explanation of AC2002FR :
     </td>
   </tr>
 </table>
-
-
-
-
-## 💼 Technical skills
-![System Security](https://img.shields.io/badge/-System%20Security-007bff?style=flat&logo=shield-alt)&nbsp; 
-
-![Identity Management](https://img.shields.io/badge/-Identity%20Management-green?style=flat&logo=openid)&nbsp;
-
-![Guardian of Azure AD and Active Directory](https://img.shields.io/badge/-Guardian%20of%20Azure%20AD%20and%20Active%20Directory-teal?style=flat&logo=microsoft)
-
-![Network Analysis](https://img.shields.io/badge/-Network%20Analysis-orange?style=flat&logo=network-wired)&nbsp;
-
-![Server Security](https://img.shields.io/badge/-Server%20Security-red?style=flat&logo=server)&nbsp;
-
-![Cybersecurity Architect](https://img.shields.io/badge/-Cybersecurity%20Architect-grey?style=flat&logo=architecture)
-
-![Password Slayer](https://img.shields.io/badge/-Password%20Slayer-lightblue?style=flat&logo=shield-alt)
 
 
 ## 🖇️ Connect with me
