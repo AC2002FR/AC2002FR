@@ -5,13 +5,13 @@
 
 ## 👋 Hello, I'm André, Cybersecurity Student
 
-I am currently in my third year of a Bachelor's in Cybersecurity, where I actively apply everything I've learned in my work-study program. 
+I am currently in my third year of a Bachelor's in Cybersecurity,  and next year I'll be doing a Master's degree. 
 I regularly utilize a variety of tools and techniques that are essential in the field of cybersecurity.
 
 Regarding the explanation of your username AC2002FR:
-  - AC: These are my initials (quite original, I know 😅).
-  - 2002: The year I was born, representing Generation Z.
-  - FR: Indicates that I am French (Yes, the land of baguettes).
+  - AC : These are my initials (quite original, I know 😅).
+  - 2002 : The year I was born, representing Generation Z.
+  - FR : Indicates that I am French 🇫🇷 (Yes, the land of baguettes).
 
 ## 💼 Technical skills
 
