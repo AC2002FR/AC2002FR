@@ -27,9 +27,16 @@ Explanation of AC2002FR :
 ![Password Slayer](https://img.shields.io/badge/-Password%20Slayer-lightblue?style=flat&logo=shield-alt)
 
 
-
-
 ## 🖇️ Connect with me
 For more secure exchanges than your password, let's meet on LinkedIn. I promise, no phishing, just networking!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/andrechapoton/)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AC2002FR&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AC2002FR&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AC2002FR&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AC2002FR&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
