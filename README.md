@@ -15,5 +15,5 @@ Explanation of AC2002FR :
 ## 💼 Technical skills
 
 
-## Connect with me
+## 🖇️ Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/andrechapoton/)
