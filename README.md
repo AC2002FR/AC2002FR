@@ -7,11 +7,10 @@
 
 I am currently in my third year of a Bachelor's in Cybersecurity,  and next year I'll be doing a Master's degree. 
 
-
-Regarding the explanation of your username AC2002FR:
-  - AC : These are my initials (quite original, I know 😅).
-  - 2002 : The year I was born, representing Generation Z.
-  - FR : Indicates that I am French 🇫🇷 (Yes, the land of baguettes).
+Explanation of AC2002FR :
+  - AC : These are my initials (quite original, I know 😅)
+  - 2002 : The year I was born (Generation Z 💪)
+  - FR : Indicates that I am French 🇫🇷 (Yes, the land of baguettes)
 
 ## 💼 Technical skills
 
