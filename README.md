@@ -12,17 +12,19 @@ Explanation of AC2002FR :
   - FR : Indicates that I am French 🇫🇷 (Yes, the land of baguettes)
 
 ## 💼 Technical skills
-![System Security](https://img.shields.io/badge/-System%20Security-007bff?style=flat&logo=shield-alt)&nbsp;![Bug Hunter](https://img.shields.io/badge/-Bug%20Hunter-blueviolet?style=flat&logo=bug)
+![System Security](https://img.shields.io/badge/-System%20Security-007bff?style=flat&logo=shield-alt)&nbsp; 
 
-![Identity Management](https://img.shields.io/badge/-Identity%20Management-green?style=flat&logo=openid)&nbsp;![Guardian of Azure AD and Active Directory](https://img.shields.io/badge/-Guardian%20of%20Azure%20AD%20and%20Active%20Directory-teal?style=flat&logo=microsoft)
+![Identity Management](https://img.shields.io/badge/-Identity%20Management-green?style=flat&logo=openid)&nbsp;
 
-![Network Analysis](https://img.shields.io/badge/-Network%20Analysis-orange?style=flat&logo=network-wired)&nbsp;![Data Detective](https://img.shields.io/badge/-Data%20Detective-yellow?style=flat&logo=network-wired)
+![Guardian of Azure AD and Active Directory](https://img.shields.io/badge/-Guardian%20of%20Azure%20AD%20and%20Active%20Directory-teal?style=flat&logo=microsoft)
 
-![Server Security](https://img.shields.io/badge/-Server%20Security-red?style=flat&logo=server)&nbsp;![Data Guardian](https://img.shields.io/badge/-Data%20Guardian-lightcoral?style=flat&logo=server)
+![Network Analysis](https://img.shields.io/badge/-Network%20Analysis-orange?style=flat&logo=network-wired)&nbsp;
 
-![Security Architecture](https://img.shields.io/badge/-Security%20Architecture-lightgrey?style=flat&logo=architecture)&nbsp;![Cybersecurity Architect](https://img.shields.io/badge/-Cybersecurity%20Architect-grey?style=flat&logo=architecture)
+![Server Security](https://img.shields.io/badge/-Server%20Security-red?style=flat&logo=server)&nbsp;
 
-![Cyberdefense](https://img.shields.io/badge/-Cyberdefense-9cf?style=flat&logo=shield-alt)&nbsp;![Password Slayer](https://img.shields.io/badge/-Password%20Slayer-lightblue?style=flat&logo=shield-alt)
+![Cybersecurity Architect](https://img.shields.io/badge/-Cybersecurity%20Architect-grey?style=flat&logo=architecture)
+
+![Password Slayer](https://img.shields.io/badge/-Password%20Slayer-lightblue?style=flat&logo=shield-alt)
 
 
 
