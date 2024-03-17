@@ -3,7 +3,7 @@
 ![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=AC2002FR)
 -->
 
-## 👋 Hello, I'm André
+## 👋 Hello, I'm André, Cybersecurity student
 
 
 ## 💼 Technical skills
