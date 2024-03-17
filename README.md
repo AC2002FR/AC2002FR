@@ -29,5 +29,7 @@ Explanation of AC2002FR :
 
 ## 🖇️ Connect with me
 For safer exchanges than your password, let's link up on LinkedIn. Promise, no phishing—just networking !
+
 Pour des échanges plus sécurisés que votre mot de passe, retrouvons-nous sur LinkedIn. Promis, pas de phishing, juste du networking !
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/andrechapoton/)
