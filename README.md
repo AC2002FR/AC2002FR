@@ -6,7 +6,7 @@
 ## 👋 Hello, I'm André, Cybersecurity Student
 
 I am currently in my third year of a Bachelor's in Cybersecurity,  and next year I'll be doing a Master's degree. 
-I regularly utilize a variety of tools and techniques that are essential in the field of cybersecurity.
+
 
 Regarding the explanation of your username AC2002FR:
   - AC : These are my initials (quite original, I know 😅).
