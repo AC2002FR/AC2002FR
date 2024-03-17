@@ -11,6 +11,43 @@ Explanation of AC2002FR :
   - 2002 : The year I was born (Generation Z 💪)
   - FR : Indicates that I am French 🇫🇷 (Yes, the land of baguettes)
 
+
+
+
+<table>
+  <tr>
+    <th>Technical Security</th>
+    <th>Prevention and Control</th>
+    <th>Operations and Management</th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>Vulnerability Management</li>
+        <li>Application Security</li>
+        <li>Cryptography</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Access Control</li>
+        <li>Network Security</li>
+        <li>Data Protection</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Risk Analysis</li>
+        <li>Security Awareness Training</li>
+        <li>Compliance and Audits</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
+
+
 ## 💼 Technical skills
 ![System Security](https://img.shields.io/badge/-System%20Security-007bff?style=flat&logo=shield-alt)&nbsp; 
 
