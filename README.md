@@ -25,7 +25,7 @@ Explanation of AC2002FR :
       <ul>
         <li>Vulnerability Management</li>
         <li>Application Security</li>
-        <li>Cryptography</li>
+        <li>Audits IT</li>
       </ul>
     </td>
     <td>
