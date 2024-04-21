@@ -50,7 +50,3 @@ Explanation of AC2002FR :
 For more secure exchanges than your password, let's meet on LinkedIn. I promise, no phishing, just networking !
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/andrechapoton/)
-''
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AC2002FR&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-''
