@@ -52,10 +52,3 @@ For more secure exchanges than your password, let's meet on LinkedIn. I promise,
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/andrechapoton/)
 
 ![image](https://github.com/AC2002FR/AC2002FR/assets/123388367/70170e2d-f572-4fda-8cb1-ce04980da7f4)
-
-# AC 2002 FR
-
-**AC** *2002* **FR**
-
-> 🟦 **AC** 🟩 **2002** 🟥 **FR**
-
