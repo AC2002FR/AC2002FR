@@ -53,8 +53,8 @@ For more secure exchanges than your password, let's meet on LinkedIn. I promise,
 
 ![image](https://github.com/AC2002FR/AC2002FR/assets/123388367/70170e2d-f572-4fda-8cb1-ce04980da7f4)
 
-<div style="background-color: black; text-align: center; padding: 10px;">
-    <span style="color: blue; font-weight: bold; font-size: 2rem;">AC</span>
-    <span style="color: white; font-weight: bold; font-size: 2rem;">2002</span>
-    <span style="color: red; font-weight: bold; font-size: 2rem;">FR</span>
+<div style="background-color: black; text-align: center; padding: 10px; font-size: 2rem; font-weight: bold;">
+    <span style="color: blue;">AC</span>
+    <span style="color: white;">2002</span>
+    <span style="color: red;">FR</span>
 </div>
