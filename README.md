@@ -4,7 +4,13 @@
 -->
 
 ## 👋 Hello, I'm André, Cybersecurity Student
-I am currently in my third year of a Bachelor's in Cybersecurity,  and next year I'll be doing a Master's degree. 
+I am currently pursuing a Master's degree in Cybersecurity, where I specialize in securing systems, networks, and applications against modern cyber threats. My journey in this field is fueled by a passion for technology, problem-solving, and continuous learning.
+
+Over the years, I have gained practical experience in areas such as:
+
+- **Threat Analysis and Vulnerability Management**: Identifying and mitigating risks to ensure secure infrastructures.
+- **Incident Response and Monitoring**: Responding to cyberattacks and implementing measures to prevent future incidents.
+- **Compliance and Governance**: Ensuring systems align with industry standards like ISO 27001 and NIST.
 
 Explanation of AC2002FR :
   - AC : These are my initials (quite original, I know 😅)
